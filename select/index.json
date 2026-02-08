@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アララの呪文",
+  "base_artist": "ちびまる子ちゃんwith爆チュー問題",
+  "createdAt": "2026-02-08T06:06:30.610311Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アララの呪文",
+      "artist": "ちびまる子ちゃん with 爆チュー問題",
+      "has_synced": true,
+      "path": "select/01_アララの呪文_ちびまる子ちゃん_with_爆チュー問題.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アララの呪文",
+      "artist": "岡本真夜",
+      "has_synced": true,
+      "path": "select/02_アララの呪文_岡本真夜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アララの呪文",
+      "artist": "ちびまる子ちゃんwith爆チュー問題",
+      "has_synced": false,
+      "path": "select/pl_01_アララの呪文_ちびまる子ちゃんwith爆チュー問題.txt"
+    }
+  ]
+}
